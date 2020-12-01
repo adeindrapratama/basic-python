@@ -1,0 +1,8 @@
+nama Agenda : 3 
+Hari Tanggal 2020-11-28 13:28:14.101870
+isi : ade 
+
+nama Agenda : python 
+Hari Tanggal 2020-11-28 14:17:58.893345
+isi : presantsi python 
+
